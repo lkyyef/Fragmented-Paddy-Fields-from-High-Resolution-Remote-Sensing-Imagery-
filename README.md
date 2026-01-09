@@ -1,1 +1,1 @@
-# Fragmented-Paddy-Fields-from-High-Resolution-Remote-Sensing-Imagery-
+# Fragmented-Paddy-Fields-from-High-Resolution-Remote-Sensing-Imagery
